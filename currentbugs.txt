@@ -1,3 +1,5 @@
- Current known bugs
-- this worked?
--
+I know this menu is not pretty, will come with something else later
+
+Current known bugs
+- up hold on opponent count as player arrow
+- pressing an arron as opponent before the countdown will result in a crash
