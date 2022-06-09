@@ -1,5 +1,5 @@
 I know this menu is not pretty, will come with something else later
+
 (this text updates automatically)
 
-Current known bugs:
-- pressing an arron as opponent before the countdown will result in a crash
+no bugs found yet (go find some)
