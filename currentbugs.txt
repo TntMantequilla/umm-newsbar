@@ -5,7 +5,7 @@ I know this menu is not pretty, will come with something else later
 current found bugs:
 - ignore the disconnect function if you are in the onlinelobby state
 - vowels remain playing when you return to the online menu
-- host in connection destruction does not allow rehosting
+(FIXED) host in connection destruction does not allow rehosting
 -client in disconnection does not allow to reconnect
 - pressing a note while waiting for the other player crashes the game
 - check to know if you are still connected to the server
