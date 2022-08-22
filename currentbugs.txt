@@ -3,9 +3,13 @@ I know this menu is not pretty, will come with something else later
 (this text updates automatically)
 
 current found bugs:
-- ignore the disconnect function if you are in the onlinelobby state
 - vowels remain playing when you return to the online menu
-(FIXED) host in connection destruction does not allow rehosting
--client in disconnection does not allow to reconnect
-- pressing a note while waiting for the other player crashes the game
 - check to know if you are still connected to the server
+
+to do:
++ message that says server is already full when trying to connect
++ kick button
++ user names
++ literall chat
++ a message that says that the other player doesnt have the song you just selected so the game doesnt crash
++ add instructions in the online menu that tells you which keys are join and host
