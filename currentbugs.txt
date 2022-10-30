@@ -1,13 +1,11 @@
 I know this menu is not pretty, will come with something else later
 
-(ongoing characters and stages selection)
-
 current found bugs:
-- crash on keypress in playstate
-- diferent charts playing clientside and desync
--
+- default characters not loading
+- default icons loading wrong ones
+
 
 to do:
 + kick button
-+ character selection
++ better path finding for stages
 
