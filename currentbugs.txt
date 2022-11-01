@@ -1,8 +1,7 @@
 I know this menu is not pretty, will come with something else later
 
 current found bugs:
-- default characters not loading
-- default icons loading wrong ones
+no bugs?
 
 
 to do:
