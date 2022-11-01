@@ -8,4 +8,5 @@ current found bugs:
 to do:
 + kick button
 + better path finding for stages
++ alternative skins if spritesheet and offsets match
 
