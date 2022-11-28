@@ -1,11 +1,11 @@
 I know this menu is not pretty, will come with something else later
 
 current found bugs:
-no bugs?
+all bugs have been fixed so far (yay)
 
 
 to do:
-+ kick button
-+ better path finding for stages
-+ alternative skins if spritesheet and offsets match
++ better looking menu
++ more players support (after public relase)
++ pasta night with 3 players online (same as above)
 
