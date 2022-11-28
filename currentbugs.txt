@@ -5,6 +5,7 @@ all bugs have been fixed so far (yay)
 
 
 to do:
++ alternative skin for reskins characters
 + better looking menu
 + more players support (after public relase)
 + pasta night with 3 players online (same as above)
