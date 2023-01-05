@@ -10,7 +10,7 @@ current found bugs:
 - ugly fucking menus (i hate this)
 
 
-
+!!! nothing is final EVERYTHING will change later !!!
 to do:
 + alternative skin for reskins characters
 + better looking menu
