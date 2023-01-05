@@ -4,6 +4,7 @@ current found bugs:
 - goun to options (in lobby) on match update crashes the game 
   (fixed but not relased)
 - on switch side, local: bf doesnt go back to idle
+  (fixed but not relased)
 - hardcoded pause songs do not play while waiting in match
   (fixed but not relased)
 - ugly fucking menus (i hate this)
