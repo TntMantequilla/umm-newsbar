@@ -1,5 +1,5 @@
 I know this menu is not pretty, will come with something else later
-
+!! data has been reseted for changing something, dont forget to go to settings menu !!
 changes:
 - added discord gf
 - added song searcher indicator
