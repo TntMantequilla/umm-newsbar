@@ -1,12 +1,19 @@
 I know this menu is not pretty, will come with something else later
 
+changes:
+- added discord gf
+- added song searcher indicator
+- on player disconnect, character goes back to default bf
+- you can no longer spam in connection menu (results in crash)
+- being in options no longer crashs if the other player changes character
+- icons in character select are back
+- difficulty changes when random selecting
+
 current found bugs:
-everything is fixed so far
+  everything is fixed so far
 
-!!! nothing is final EVERYTHING will change later !!!
 to do:
-+ alternative skin for reskins characters
-+ better looking menu
-+ more players support (after public relase)
-+ pasta night with 3 players online (same as above, will be another relase)
++ wait for microondas menu and david artwork
++ put credits (zzzzz)
 
+nothing is final some things may change later
