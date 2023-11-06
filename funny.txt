@@ -1,4 +1,2 @@
 7
-a poll has been made deciding if waiting for the servers or making an update before that, so a new small update is on the making and the master server will be put on hold for a bit
-whoever rigged the fucking voting is gonna get sent to the shadow realm
-forget about updating funkin lua, umm is actually updating to 0.7 (fuck you poyo)
+0.7 update its almost ready but hscript i cant belive its fucked beyond recognition
