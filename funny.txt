@@ -1,5 +1,5 @@
-7
-on 7.1 update umm will update to 3.1 wich means 6.3 will also update
-7.1 and 6.3 will still be able to cross play
-after both are released i will not update umm for a month but ill keep working ot it just to get feedback on what people want related to the softmodding part of psych
-7.1 update its almost ready but hscript i cant belive its fucked beyond recognition
+8
+7.1 buld is finally here
+other platform builds have to wait till december one im sorry
+7.1 and 6.3 builds are able to crossplay
+old versions of umm can no longer play with new versions due to umm moving to 3.1
