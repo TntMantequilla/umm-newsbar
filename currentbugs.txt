@@ -1,19 +1,1 @@
-I know this menu is not pretty, will come with something else later
-!! data has been reseted for changing something, dont forget to go to settings menu !!
-changes:
-- added discord gf
-- added song searcher indicator
-- on player disconnect, character goes back to default bf
-- you can no longer spam in connection menu (results in crash)
-- being in options no longer crashs if the other player changes character
-- icons in character select are back
-- difficulty changes when random selecting
 
-current found bugs:
-  everything is fixed so far
-
-to do:
-+ wait for microondas menu and david artwork
-+ put credits (zzzzz)
-
-nothing is final some things may change later
