@@ -1,4 +1,4 @@
 10
-gamejolt implementation ahs been added
+gamejolt implementation has been added
 update got pushed way earlier due to a certain special day coming up
 gamejolt right now only contains 4 achievements with quick play coming up later
