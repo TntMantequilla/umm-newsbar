@@ -1,5 +1,4 @@
-9
-new lobby is here
-welcome to super and chazbill to the umm team
-unfortunely it now ends the support of 6.3 but we added kind of compatibility
-compatibility will improve overtime with comunity feedback
+10
+gamejolt implementation ahs been added
+update got pushed way earlier due to a certain special day coming up
+gamejolt right now only contains 4 achievements with quick play coming up later
