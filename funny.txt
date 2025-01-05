@@ -1,4 +1,3 @@
 11
 Happy Birthday PhantomArcade
-congratulations to ivanodrako for winning the first unnamed multiplayer tournament
-1.0 is still being worked on 3/4 way done
+1.0 extra keys has been finished and the implementación of the online rewrite has started
